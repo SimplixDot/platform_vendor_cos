@@ -20,8 +20,7 @@
     <integer name="config_activityShortDur">75</integer>
     <integer name="config_activityDefaultDur">110</integer>
 
-    <!-- System font packages (overlay in vendor) -->
-    <string-array name="config_fontPackages" translatable="false">
-        <item>com.dirtyunicorns.fonts</item>
-    </string-array>
+    <!-- Whether or not swipe up gesture's opt-in setting is available on this device -->
+    <bool name="config_swipe_up_gesture_setting_available">true</bool>
+    
 </resources>

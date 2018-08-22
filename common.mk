@@ -65,6 +65,11 @@ PRODUCT_PACKAGES += \
     Kiwi \
     MarkupGoogle
 
+# Turbo
+PRODUCT_PACKAGES += \
+    Turbo \
+    turbo.xml
+
 # Markup Libs
 PRODUCT_COPY_FILES += \
     vendor/cos/prebuilt/common/lib/libsketchology_native.so:system/lib/libsketchology_native.so \

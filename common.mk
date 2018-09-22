@@ -61,7 +61,9 @@ PRODUCT_PACKAGES += \
     SimpleGallery \
     SimplixCenter \
     Kiwi \
-    MarkupGoogle
+    MarkupGoogle \
+    Galaxy \
+    Retro \
     MarkupGoogle \
     SettingsIntelligenceGooglePrebuilt
 
@@ -107,6 +109,7 @@ PRODUCT_PACKAGES += \
     PurpleTheme \
     RedTheme \
     StockBaseTheme \
+    SimplixTheme \
     StockFixedBaseTheme \
     StockTheme \
     YellowTheme
@@ -116,11 +119,14 @@ PRODUCT_PACKAGES += \
     GBoardDarkTheme \
     SettingsDarkTheme \
     SystemDarkTheme \
-    SysuiQsDarkTheme
-#    SettingsBlackTheme \
-#    SystemBlackTheme \
+    SysuiQsDarkTheme \
+    SettingsBlackTheme \
+    SystemBlackTheme \
+    SysuiQsBlackTheme \
+    SettingsSimplixTheme \
+    SystemSimplixTheme \
+    SysuiQsSimplixTheme
 #    SystemSettingsIconTint \
-#    SysuiQsBlackTheme
 
 # Mms depends on SoundRecorder for recorded audio messages
 PRODUCT_PACKAGES += \

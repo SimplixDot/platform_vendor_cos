@@ -1,0 +1,105 @@
+[CENTER][img]https://i.imgur.com/Bc3f9Vk.png[/img]
+
+[CODE]/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+[B][SIZE="2"][COLOR="DarkBlue"]Based on CosmicOS Corona.[/COLOR][/SIZE][/B]
+
+[img]https://i.imgur.com/Mfxk3Y4.png[/img]
+
+[B][COLOR="DarkRed"] # Exclusive #
+- Simplix Black & Blue theme
+- Game Mode
+- Simplix Center app for updates and other ROM-specific stuff
+- Pixel 2 GCam Mod built-in[/B]
+
+We accept feature requests over at our [URL="t.me/simplix_group"]Telegram Group[/URL].[/COLOR]
+[HIDE]
+
+[Color="Green"]# Recents #[/color]
+- Swipe up on dock for recents
+
+[Color="Green"]# Lockscreen #[/color]
+- Ambient display
+- Quick Unlock
+- Fingerprint Unlock After Reboot
+
+[Color="Green"]# Gestures #[/color]
+- Double Tap to sleep
+- Swipe down fingerprint for notifications
+- Swipe fingerprint to dismiss notifications
+- Gesture navigation on all devices
+
+[Color="Green"]# Quick Settings #[/color]
+- Show/hide tile labels (brings back old style in-QS controls)
+- QS Layout editor
+
+[Color="Green"]# Themes #[/color]
+- Black/Dark/Light UI styles
+- Accent color picker
+
+[Color="Green"]# Miscellaneous #[/color]
+- Power menu options
+- Advanced restart
+- Expanded Desktop
+
+[/HIDE]
+
+[img]https://i.imgur.com/zI4Mbm7.png[/img]
+
+[Color="darkred"]Wanna be the first one to know when a new update comes out? Be sure to follow us at our [URL="t.me/simplix_dot"]Updates Channel[/URL].[/color]
+
+[SIZE="5"]Simplix Blue - Beta 2.0.1[/SIZE]
+[SIZE="3"][URL="https://drive.google.com/file/d/1SsvSECmC_mDOPYt1PGDVPF5if42O0B_g/view?usp=sharing"]AndroidFileHost[/URL][/SIZE]
+[SIZE="3"][URL="https://drive.google.com/file/d/1SsvSECmC_mDOPYt1PGDVPF5if42O0B_g/view?usp=sharing"]Google Drive Mirror[/URL][/SIZE]
+
+[SIZE="3"][URL="opengapps.org"]GApps[/URL][/SIZE]
+
+[img]https://i.imgur.com/0SIoxtt.png[/img]
+
+[SIZE="4"][B][COLOR="Blue"]Instructions for flashing:[/COLOR][/B][/SIZE] 
+Download ROM, TWRP Installer, Magisk and GApps. 
+Copy ROM, TWRP Installer, Magisk and GApps to internal storage/sd card. 
+Wipe Data, Cache and Dalvik/ART Cache. 
+Flash ROM, TWRP Installer
+Reboot to recovery
+Flash GApps and Magisk (And any other mods you use)
+Enjoy :P
+
+[SIZE="4"][B][COLOR="Red"]Instructions for updating:[/COLOR][/B][/SIZE] 
+Download the ROM from "Simplix Center"
+Flash ROM, TWRP Installer
+Reboot to recovery
+Flash GApps and Magisk (And any other mod you use)
+Enjoy :PPP
+
+
+[img]https://i.imgur.com/ZjXYd98.png[/img]
+
+[SIZE="5"][URL="https://github.com/SimplixDot"]ROM[/URL]
+[URL="https://github.com/TheScarastic/android_device_xiaomi_tissot.git"]Device Tree[/URL]
+[URL="https://github.com/Abhinavgupta371/android_strix_xiaomi_tissot.git"]Kernel[/URL][/SIZE]
+
+[img]https://i.imgur.com/X4LMLcC.png[/img]
+[SIZE=4]
+[B]- [URL="https://github.com/Cosmic-OS"]Cosmic OS[/URL][/B]
+- [URL="https://github.com/nitrogen-project"]Nitrogen Project[/URL]
+- [URL="https://github.com/LineageOS"]LineageOS[/URL]
+- [URL="https://github.com/ResurrectionRemix"]Resurrection Remix[/URL]
+- [URL="https://github.com/LiquidRemix"]Liquid Remix[/URL]
+- [URL="https://github.com/CypherOS"]AOSCP[/URL]
+- [URL="https://github.com/Omnirom"]OmniROM[/URL]
+- [URL="https://github.com/ezio84"]ABC ROM[/URL]
+- [URL="https://github.com/dirtyunicorns"]Dirty Unicorns[/URL]
+- [URL="https://github.com/kabouzeid/Phonograph"]Kabou Zeid for Phonograph[/URL]
+- [URL="https://github.com/VenkatVishalV/batmance_kernel_tissot"]Venkat Vishal for Batmance kernel[/URL]
+[/SIZE]
+
+[/CENTER]

@@ -58,6 +58,7 @@ PRODUCT_BOOT_JARS += \
 # Custom packages
 PRODUCT_PACKAGES += \
     Phonograph \
+    SimplixNotes \
     SimplixCenter \
     Kiwi \
     MarkupGoogle \
@@ -186,7 +187,7 @@ ifneq ($(TARGET_UNOFFICIAL_BUILD_ID),)
     SIMPLIX_BUILD_TYPE := $(TARGET_UNOFFICIAL_BUILD_ID)
 endif
 
-SIMPLIX_VERSION_NUMBER := 2.0.2
+SIMPLIX_VERSION_NUMBER := 2.0.3
 SIMPLIX_CODENAME := Blue
 SIMPLIX_VER := $(SIMPLIX_VERSION_NUMBER)-$(SIMPLIX_CODENAME)-$(SIMPLIX_BUILD_TYPE)
 COS_BUILD_DATE := $(shell date +%Y%m%d)
